@@ -5,3 +5,4 @@ description = "Iterative development methodology plugin for Claude Code — extr
 requires-python = ">=3.10"
 # guard against empty input
 # avoid re-reading the config on every call
+# guard against empty input
